@@ -1,13 +1,13 @@
-🎇 Diwali Sales Analysis
-📌 Project Overview
+     🎇 Diwali Sales Analysis
+     📌 Project Overview
 
 This project analyzes Diwali sales data to understand customer purchasing behavior, identify high-performing product categories, and generate insights that can help businesses improve their sales strategy during festive seasons.
 
 The analysis is performed using Python in a Jupyter Notebook. It includes data cleaning, exploratory data analysis (EDA), and visualization to uncover key trends.
 
-Dataset
 
-File Name: Diwali_sales_Analysis.ipynb
+
+     File Name: Diwali_sales_Analysis.ipynb
 
 Description: The dataset contains customer transaction details such as gender, age group, state, product category, and purchase amount during Diwali sales.
 

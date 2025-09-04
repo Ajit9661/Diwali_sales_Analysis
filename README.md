@@ -21,7 +21,6 @@ pandas
 numpy
 matplotlib
 seaborn
-jupyter notebook
 
      Steps in Analysis
 

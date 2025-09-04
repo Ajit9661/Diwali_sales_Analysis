@@ -15,7 +15,7 @@ Tech Stack
 
 Language: Python 
 
-Libraries Used:
+    Libraries Used:
 
 pandas
 numpy
@@ -23,7 +23,7 @@ matplotlib
 seaborn
 jupyter notebook
 
-   Steps in Analysis
+     Steps in Analysis
 
 Data Cleaning
 Removed null and duplicate values
